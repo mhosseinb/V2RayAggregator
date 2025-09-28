@@ -1,1 +1,0 @@
-  - {name: 🇮🇳 _IN_印度, server: 134.209.147.198, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
