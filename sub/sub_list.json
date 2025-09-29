@@ -4,7 +4,7 @@
     "remarks": "Eternity",
     "site": "Eternity",
     "url": "https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0929.txt",
-    "update_method": "change_date",
+    "update_method": "auto",
     "enabled": true
   },
   {
@@ -12,7 +12,7 @@
     "remarks": "Mysub",
     "site": "Mysub",
     "url": "https://raw.githubusercontent.com/mhosseinb/Sub_Checker_Creator/refs/heads/main/final.txt",
-    "update_method": "change_date",
+    "update_method": "auto",
     "enabled": true
   }
 ]
