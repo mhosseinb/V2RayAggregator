@@ -73,7 +73,7 @@ def output(list, num):
 
 
 if __name__ == '__main__':
-    num = 200
+    num = 400
     if os.path.isfile(out_json):
         os.unlink(out_json)
     value = read_json(out_json)
