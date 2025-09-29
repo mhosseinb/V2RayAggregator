@@ -2,40 +2,16 @@
   {
     "id": 0,
     "remarks": "Eternity",
-    "site": "1",
+    "site": "Eternity",
     "url": "https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0929.txt",
     "update_method": "change_date",
     "enabled": true
   },
   {
-    "id": 1,
-    "remarks": "PSG",
-    "site": "PSG",
-    "url": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/location/base64/US",
-    "update_method": "change_date",
-    "enabled": true
-  },
-  {
-    "id": 2,
-    "remarks": "PSG-DE",
-    "site": "DE",
-    "url": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/location/base64/DE",
-    "update_method": "page_release",
-    "enabled": true
-  },
-  {
-    "id": 2,
-    "remarks": "mahsa",
-    "site": "mahsa",
-    "url": "https://raw.githubusercontent.com/mahsa114232-dot/My-sub/refs/heads/main/sub.txt",
-    "update_method": "page_release",
-    "enabled": true
-  },
-  {
     "id": 3,
-    "remarks": "hamedp",
-    "site": "hamedp",
-    "url": "https://raw.githubusercontent.com/hamedp-71/Sub_Checker_Creator/refs/heads/main/final.txt",
+    "remarks": "Mysub",
+    "site": "Mysub",
+    "url": "https://raw.githubusercontent.com/mhosseinb/Sub_Checker_Creator/refs/heads/main/final.txt",
     "update_method": "change_date",
     "enabled": true
   }
